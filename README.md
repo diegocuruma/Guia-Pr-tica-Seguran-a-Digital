@@ -15,11 +15,11 @@ A cada dia fica mais evidente que grande parte das atividades na internet estão
 
 ## Sumário
 
-** 1 Como se proteger**
+**1 Como se proteger**
 * 1.1 - Senhas Fortes
 * 1.2 - Navegação anonima
 
-** 1.1 - Senhas Fortes
+**1.1 - Senhas Fortes**
 >  Ter uma senha forte é muito importante, afinal ela é a chave para entrar nos seus dados. Algumas práticas simples podem ajudar você a escolher, manter e guardar suas senhas com segurança.
 * Use senhas longas.
 * Escolha senhas com maiúsculas, minúsculas, números e símbolos especiais.
